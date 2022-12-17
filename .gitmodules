@@ -4,3 +4,6 @@
 [submodule "home/.config/nvim"]
 	path = home/.config/nvim
 	url = https://github.com/Adamekka/nvim
+[submodule "home/.config/picom"]
+	path = home/.config/picom
+	url = https://github.com/Adamekka/picom
