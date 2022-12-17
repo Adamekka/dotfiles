@@ -16,3 +16,6 @@
 [submodule "home/.config/dwm"]
 	path = home/.config/dwm
 	url = https://github.com/Adamekka/dwm
+[submodule "home/.config/alacritty"]
+	path = home/.config/alacritty
+	url = https://github.com/Adamekka/alacritty
