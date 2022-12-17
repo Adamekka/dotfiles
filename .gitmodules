@@ -10,3 +10,6 @@
 [submodule "home/.config/xmonad"]
 	path = home/.config/xmonad
 	url = https://github.com/Adamekka/xmonad
+[submodule "home/.config/xmobar"]
+	path = home/.config/xmobar
+	url = https://github.com/Adamekka/xmobar
