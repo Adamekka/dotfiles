@@ -19,3 +19,6 @@
 [submodule "home/.config/alacritty"]
 	path = home/.config/alacritty
 	url = https://github.com/Adamekka/alacritty
+[submodule "root/usr/share/X11/xkb/symbols/my-keyboard-layout_cz"]
+	path = root/usr/share/X11/xkb/symbols/my-keyboard-layout_cz
+	url = https://github.com/Adamekka/my-keyboard-layout_cz
