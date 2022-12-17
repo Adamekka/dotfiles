@@ -13,3 +13,6 @@
 [submodule "home/.config/xmobar"]
 	path = home/.config/xmobar
 	url = https://github.com/Adamekka/xmobar
+[submodule "home/.config/dwm"]
+	path = home/.config/dwm
+	url = https://github.com/Adamekka/dwm
