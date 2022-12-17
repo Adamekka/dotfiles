@@ -7,3 +7,6 @@
 [submodule "home/.config/picom"]
 	path = home/.config/picom
 	url = https://github.com/Adamekka/picom
+[submodule "home/.config/xmonad"]
+	path = home/.config/xmonad
+	url = https://github.com/Adamekka/xmonad
