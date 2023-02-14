@@ -1,0 +1,39 @@
+[fish]
+name = "fish"
+path = "~/.config/fish"
+git_path = "https://github.com/Adamekka/fish.git"
+
+# [nvim]
+# name = "nvim"
+# path = "~/.config/nvim"
+# git_path = "https://github.com/Adamekka/nvim.git"
+
+[picom]
+name = "picom"
+path = "~/.config/picom"
+git_path = "https://github.com/Adamekka/picom.git"
+
+[xmonad]
+name = "xmonad"
+path = "~/.config/xmonad"
+git_path = "https://github.com/Adamekka/xmonad.git"
+
+[xmobar]
+name = "xmobar"
+path = "~/.config/xmobar"
+git_path = "https://github.com/Adamekka/xmobar.git"
+
+[dwm]
+name = "dwm"
+path = "~/.config/dwm"
+git_path = "https://github.com/Adamekka/dwm.git"
+
+[alacritty]
+name = "alacritty"
+path = "~/.config/alacritty"
+git_path = "https://github.com/Adamekka/alacritty.git"
+
+[st]
+name = "st"
+path = "~/.config/st"
+git_path = "https://github.com/Adamekka/st.git"
