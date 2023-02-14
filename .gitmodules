@@ -22,3 +22,6 @@
 [submodule "root/usr/share/X11/xkb/symbols/my-keyboard-layout_cz"]
 	path = root/usr/share/X11/xkb/symbols/my-keyboard-layout_cz
 	url = https://github.com/Adamekka/my-keyboard-layout_cz
+[submodule "home/.config/st"]
+	path = home/.config/st
+	url = https://github.com/Adamekka/st
